@@ -3,6 +3,7 @@ import pulumi
 from pulumi import get_stack
 from pulumi_azure import core
 from accountstorage import aStorage
+from logan import logan
 
 config = pulumi.Config()
 mi=config.get_int('maxinstance')
