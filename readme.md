@@ -5,14 +5,14 @@ The firts project create a simple Resource Group and a Storage Account using a r
 The second project, create a Resource Group, a Log Analythics Workspace and a number of storage account mased on maxinstances value you set during the configuration. 
 
 ```CSU-SAMPLE1
-Instruction to use it:
+Instruction to use CSU-SAMPLE1:
 * Clone the repo
 * Run this command to create the python virtual environment: python3 -m venv venv
 * Run this command to create the first stack: pulumi stack init <stack name>
 ```
 
 ```CSU-SAMPLE2
-Instruction to use it:
+Instruction to use CSU-SAMPLE2:
 * Clone the repo
 * Run this command to create the python virtual environment: python3 -m venv venv
 * Run this command to create the first stack: pulumi stack init <stack name>
