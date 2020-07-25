@@ -4,12 +4,12 @@ These two projects are only an example to test an Azure deployment using Python 
 The firts project create a simple Resource Group and a Storage Account using a random name
 The second project, create a Resource Group, a Log Analythics Workspace and a number of storage account mased on maxinstances value you set during the configuration. 
 
-##Instruction to use CSU-SAMPLE1:
+## Instruction to use CSU-SAMPLE1:
 1. Clone the repo
 2. Run this command to create the python virtual environment: __python3 -m venv venv__
 3. Run this command to create the first stack: __pulumi stack init <stack name>__
 
-##Instruction to use CSU-SAMPLE2:
+## Instruction to use CSU-SAMPLE2:
 1. Clone the repo
 2. Run this command to create the python virtual environment: __python3 -m venv venv__
 3. Run this command to create the first stack: __pulumi stack init <stack name>__
